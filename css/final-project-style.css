@@ -53,9 +53,9 @@ li a {
     margin-left: -45px;
 }
 
-/* #clicked-graphic {
-    margin-left: 350px;
-} */
+#clicked-graphic {
+    margin-left: -45px;
+}
 
 a:hover {
     color: #36151E;
