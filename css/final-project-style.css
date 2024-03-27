@@ -50,14 +50,6 @@ li a {
     text-decoration: none;
 }
 
-#web {
-    margin-left: 350px;
-}
-
-#clicked-web {
-    margin-left: 350px;
-}
-
 #graphic {
     margin-left: 350px;
 }
@@ -67,13 +59,6 @@ li a {
 }
 
 a:hover {
-    color: #36151E;
-}
-
-form {
-    text-align: center;
-    margin: 10px 350px;
-    padding: 40px 40px;
     color: #36151E;
 }
 
