@@ -49,13 +49,13 @@ li a {
     text-decoration: none;
 }
 
-#graphic {
+/* #graphic {
     margin-left: 350px;
 }
 
 #clicked-graphic {
     margin-left: 350px;
-}
+} */
 
 a:hover {
     color: #36151E;
